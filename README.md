@@ -17,7 +17,6 @@
 <br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
 
 **Languages and Tools:**  
-<code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
+
 
